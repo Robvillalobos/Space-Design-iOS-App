@@ -20,7 +20,7 @@ class ViewController: UIViewController {
 
     private let spaceButton: UIButton = {
         let button = UIButton(type: .system)
-        button.setTitle("Space Design 2", for: .normal)
+        button.setTitle("Space Design 29b", for: .normal)
         button.titleLabel?.font = UIFont.systemFont(ofSize: 20, weight: .medium)
         button.translatesAutoresizingMaskIntoConstraints = false
         return button
